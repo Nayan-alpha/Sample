@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 my name is batman. hello every nyan.
+=======
+my name is batman. hello every nyan.
+>>>>>>> tinku
